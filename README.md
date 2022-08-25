@@ -30,7 +30,7 @@ I try to upload what I can on these repos, but honestly it's too hard to keep lo
 🔭 I'm currently working on Django.
 
 
-🌱 I’m currently learning Solidity.
+🌱 I’m currently learning Go and C++.
 
 
 👯 I’m looking to collaborate on something related to geek culture.
