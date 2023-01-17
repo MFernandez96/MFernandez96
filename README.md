@@ -35,6 +35,11 @@ I try to upload what I can on these repos, but honestly it's too hard to keep lo
 
 👯 I’m looking to collaborate on something related to geek culture.
 
+I'm pretty frustrated with everyone flexing their github commit contributions, well... Here are my gitlab contributions for 2022!
+![image](https://user-images.githubusercontent.com/22018420/212968013-d6ccb2be-9886-4251-800a-dc9f68b78340.png)
+
+
+
 <!--
 **Demonliquid/Demonliquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
