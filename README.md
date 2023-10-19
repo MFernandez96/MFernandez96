@@ -1,15 +1,30 @@
 # Welcome to my github profile!
-Hi there, Martin here!. I am a backend dev from Cordoba, Argentina. I went from accounting, to data, to back. Currently I am under contract for Seenka but I still try to do some freelancing or hobby projects; there is always time for a little challenge. If you are interested in some of my work, feel free to contact me on gmail or linkedin.
+  Hi there, Martin here!. I am a backend dev from Cordoba, Argentina. I went from accounting, to data, to back. Currently I am under contract for Vexels but I still try to do some freelancing or hobby projects; there is always time for a little challenge. If you are interested in some of my work, feel free to contact me on gmail or linkedin.
 
 
 ### What do I want to do?
-I would like to take on C++ and help on some Unreal Engine problems, but I want to improve my python as much as possible; it's a good programming language. I can think about learning some Java or Golang.
+  I'm considering specializing in backend development, possibly delving into a more static language like Golang. Alternatively, I'm thinking about deepening my expertise in frontend, given my current experience with Next.js, or even venturing into video game development.
 
 ### What did I do?
-I try to upload what I can on these repos, but honestly it's too hard to keep looking for sensitive information or clean code if it's just for show. One of these is a lot of data cleaning for a car database and there is a lot of work outside github (db design for example); another is early staging of API integration; the rest are various one-use cases.
+  - Developed microservices utilizing the Django framework in conjunction with DRF (Django Rest Framework).
+  - Engaged in full-stack development using Next.js.
+  - Implemented AWS Lambdas with JavaScript.
+  - Executed extensive web scraping using tools such as Selenium, Requests, and Scrapy.
+  - Conducted data cleaning using the Python's pandas library.
+  - Managed and maintained some legacy PHP systems.
+  - Worked with a variety of databases, both SQL (including Postgres and BigQuery) and NoSQL (spanning Elastic, Mongo, Clickhouse, Dynamo, and Redis).
+  - Gained proficiency in cloud platforms, primarily AWS and GCP.
+
 
 ## Who did I help?
-### Seenka | 2021 - Now
+
+### Vexels | 2023 - Now
+- Maintain legacy PHP
+- AWS
+- Django
+- Next.js
+
+### Seenka | 2021 - 2023
 - Integrated Demand-Side Platforms (DSPs). 
 - Refactor old code.
 - Maintain various Django APIs on a microservices structure.
